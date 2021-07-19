@@ -1,0 +1,15 @@
+.dashboard{
+    padding: 10px;
+    display: flex;
+}
+.devices{
+    padding: 10px;
+    display: flex;
+}
+.locations{
+    padding: 10px;
+    display: flex;
+}
+mat-icon{
+    margin-right: 15px;
+}
