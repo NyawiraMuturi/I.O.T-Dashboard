@@ -6,6 +6,10 @@ import { AppRoutingModule } from 'src/app/app-routing.module';
 import { PostsComponent } from 'src/app/modules/posts/posts.component';
 import { SharedModule } from 'src/app/shared/shared.module';
 import {MatSidenavModule} from '@angular/material/sidenav';
+import { MatDividerModule } from '@angular/material/divider';
+import { MatIconModule } from '@angular/material/icon';
+import { MatButtonModule } from '@angular/material/button';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
 
 
@@ -19,6 +23,10 @@ import {MatSidenavModule} from '@angular/material/sidenav';
     AppRoutingModule,
     SharedModule,
     MatSidenavModule,
+    MatDividerModule,
+    MatIconModule,
+    MatButtonModule,
+    FlexLayoutModule,
     CommonModule
   ]
 })
