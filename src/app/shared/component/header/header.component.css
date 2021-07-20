@@ -4,3 +4,8 @@ ul li{
 mat-toolbar-row{
     background: white;
 }
+
+li span {
+    font-size: smaller;
+    color: rebeccapurple;
+}
