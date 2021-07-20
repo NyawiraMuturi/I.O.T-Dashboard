@@ -6,6 +6,9 @@ mat-toolbar-row{
 }
 
 li span {
-    font-size: smaller;
+    font-size: 12px;
     color: rebeccapurple;
+}
+.nav{
+    margin-left: 65rem;
 }
